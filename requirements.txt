@@ -1,0 +1,7 @@
+pandas
+numpy
+maplotlib
+seaborn
+scikit-learn
+streamlit
+google-genai
