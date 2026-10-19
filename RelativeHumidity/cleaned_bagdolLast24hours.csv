@@ -1,0 +1,25 @@
+location_id,location_name,parameter,value,unit,datetimeLocal,timezone,latitude,longitude,owner_name,provider,date,time
+6230465,Bagdol,relativehumidity,58.0,%,2026-10-11 06:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,06:45:00
+6230465,Bagdol,relativehumidity,57.0,%,2026-10-11 07:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,07:45:00
+6230465,Bagdol,relativehumidity,41.0,%,2026-10-11 08:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,08:45:00
+6230465,Bagdol,relativehumidity,38.0,%,2026-10-11 09:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,09:45:00
+6230465,Bagdol,relativehumidity,40.0,%,2026-10-11 10:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,10:45:00
+6230465,Bagdol,relativehumidity,37.0,%,2026-10-11 11:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,11:45:00
+6230465,Bagdol,relativehumidity,37.0,%,2026-10-11 12:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,12:45:00
+6230465,Bagdol,relativehumidity,35.0,%,2026-10-11 13:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,13:45:00
+6230465,Bagdol,relativehumidity,35.0,%,2026-10-11 14:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,14:45:00
+6230465,Bagdol,relativehumidity,36.0,%,2026-10-11 15:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,15:45:00
+6230465,Bagdol,relativehumidity,37.0,%,2026-10-11 16:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,16:45:00
+6230465,Bagdol,relativehumidity,40.0,%,2026-10-11 17:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,17:45:00
+6230465,Bagdol,relativehumidity,42.0,%,2026-10-11 18:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,18:45:00
+6230465,Bagdol,relativehumidity,45.0,%,2026-10-11 19:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,19:45:00
+6230465,Bagdol,relativehumidity,49.0,%,2026-10-11 20:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,20:45:00
+6230465,Bagdol,relativehumidity,51.0,%,2026-10-11 21:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,21:45:00
+6230465,Bagdol,relativehumidity,52.0,%,2026-10-11 22:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,22:45:00
+6230465,Bagdol,relativehumidity,52.0,%,2026-10-11 23:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-11,23:45:00
+6230465,Bagdol,relativehumidity,53.0,%,2026-10-12 00:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-12,00:45:00
+6230465,Bagdol,relativehumidity,54.0,%,2026-10-12 01:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-12,01:45:00
+6230465,Bagdol,relativehumidity,54.0,%,2026-10-12 02:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-12,02:45:00
+6230465,Bagdol,relativehumidity,55.0,%,2026-10-12 03:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-12,03:45:00
+6230465,Bagdol,relativehumidity,56.0,%,2026-10-12 04:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-12,04:45:00
+6230465,Bagdol,relativehumidity,56.0,%,2026-10-12 05:45:00+05:45,Asia/Kathmandu,27.671706,85.301619,KIAS,AirGradient,2026-10-12,05:45:00
